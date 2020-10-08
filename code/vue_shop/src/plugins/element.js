@@ -38,6 +38,8 @@ import {
 }from 'element-ui'
 //导入弹框提示组件  Message
 
+import Timeline from '../timeline/index.js'
+import TimelineItem from '../timeline-item/index.js'
 
 
 Vue.use(Button)
